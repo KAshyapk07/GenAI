@@ -1,0 +1,10 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+legacy/
+
+3_Advanced_LangChain.ipynb
+4_RAG_and_Vector_Store.ipynb
+
